@@ -106,5 +106,5 @@ if (message.content === ';raidconfirm'){
 });
 
 
-client.login('Njg5MTI4MzkwMDc0NDMzNjU1.Xm-X3g.u9p7jX8YINNSyOOaNK9fASSDx7g');
+client.login('ODU2NTEwOTM5MzMwNTEwODY4.YNCF-Q.AqXEj2CERvK1APm5creJ3ftyEso');
 
